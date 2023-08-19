@@ -1,0 +1,101 @@
+.first{
+    background-color: #fff;
+    height: 500px;
+    width: 450px;
+    padding: 20px;
+}
+.sign{
+    font-size: 24px;
+    font-weight: 500;
+}
+.second{
+    padding: 20px;
+    background: linear-gradient(to top left, #ff99cc 0%, #ff0066 55%);
+    height: 500px;
+    width: 450px;
+    text-align: center;
+    align-items: center;
+    color: #fff;
+}
+.main{
+    background-color: #e1e1e1;
+    display: flex;
+    padding-inline-start: 50px;
+    margin: 50px 200px;
+}
+.bottom{
+    display: flex;
+}
+.username{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.username input{
+    background-color: #e1e1e1;
+    padding: 10px;
+    border-radius: 40px;
+    width: 350px;
+    border-color: transparent;
+}
+.password p{
+    font-weight: 700;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.password input{
+    width: 350px;
+    background-color: #e1e1e1;
+    padding: 10px;
+    border-radius: 40px;
+    margin-bottom: 20px;
+    border-color: transparent;
+}
+.signin button{
+    border-color: transparent;
+    width: 370px;
+    outline: none;
+    padding: 15px;
+    border-radius: 40px;
+    background: linear-gradient(to top left, #ff99cc 0%, #ff0066 55%);
+}
+.welcome{
+    font-weight: 700;
+    font-size: 40px;
+}
+.sup{
+    background-color: transparent;
+    border-radius: 20px;
+    align-items: center;
+    text-align: center;
+    height: 40px;
+    width: 70px;
+    border-color: #fff;
+    color: #fff;
+}
+.second div{
+    margin-top: 150px;
+}
+.rem{
+    color: #ff0066;
+    font-weight: 700;
+}
+.forgot{
+    color: gray;
+    font-weight: 700;
+}
+.bottom{
+    justify-content: space-between;
+}
+.forgot{
+    margin-right: 90px;
+}
+.icon{
+    color: #ff0066;
+    font-size: 25px;
+    margin-top: 16px;
+    margin-right: -100px;
+}
+input{
+    outline: none;
+}

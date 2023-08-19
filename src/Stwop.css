@@ -1,0 +1,17 @@
+.app{
+    margin: 50px 200px;
+    width: 400px;
+    padding: 20px;
+}
+.title{
+    text-transform: capitalize;
+    font-size: 36px;
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 600;
+}
+.bracket{
+    background-color: #e3e3e3;
+    border: 1px solid #e1e1e1;
+}
